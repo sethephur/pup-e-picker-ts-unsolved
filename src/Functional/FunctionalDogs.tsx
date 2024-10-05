@@ -1,32 +1,20 @@
-import { useEffect, useState } from 'react';
+/* eslint-disable react/prop-types */
 import { DogCard } from '../Shared/DogCard';
 import { Dog } from '../types';
 
-export const FunctionalDogs = () => {
-  const [dogs, setDogs] = useState<Dog[]>([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState('');
+interface FunctionalDogsProps {
+  dogs: Dog[];
+  setDogs: React.Dispatch<React.SetStateAction<Dog[]>>;
+  loading: boolean;
+  error: string;
+}
 
-  // Fetch data when component mounts
-  useEffect(() => {
-    fetch('http://localhost:3000/dogs')
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error(`Error: ${response.status}`);
-        }
-        return response.json();
-      })
-      .then((data) => {
-        setDogs(data);
-      })
-      .catch((error) => {
-        setError(error.message);
-      })
-      .finally(() => {
-        setLoading(false);
-      });
-  }, []);
-
+export const FunctionalDogs: React.FC<FunctionalDogsProps> = ({
+  dogs,
+  setDogs,
+  loading,
+  error,
+}) => {
   const updateFavoriteStatus = (id: number, isFavorite: boolean) => {
     fetch(`http://localhost:3000/dogs/${id}`, {
       method: 'PATCH',
