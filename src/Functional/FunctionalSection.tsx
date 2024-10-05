@@ -1,16 +1,15 @@
-// you can use this type for react children if you so choose
-import { ReactNode } from "react";
-import { Link } from "react-router-dom";
+import { Link } from 'react-router-dom';
+import { FunctionalDogs } from './FunctionalDogs';
 
 export const FunctionalSection = () => {
   return (
-    <section id="main-section">
-      <div className="container-header">
-        <div className="container-label">Dogs: </div>
-        <Link to={"/class"} className="btn">
+    <section id='main-section'>
+      <div className='container-header'>
+        <div className='container-label'>Dogs: </div>
+        <Link to={'/class'} className='btn'>
           Change to Class
         </Link>
-        <div className="selectors">
+        <div className='selectors'>
           {/* This should display the favorited count */}
           <div className={`selector active`} onClick={() => {}}>
             favorited ( 12 )
@@ -25,7 +24,9 @@ export const FunctionalSection = () => {
           </div>
         </div>
       </div>
-      <div className="content-container"></div>
+      <div className='content-container'>
+        <FunctionalDogs />
+      </div>
     </section>
   );
 };

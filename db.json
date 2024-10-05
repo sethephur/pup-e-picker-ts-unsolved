@@ -1,1 +1,137 @@
-{"dogs":[{"name":"Nannie","image":"/assets/corgi.png","description":"inquisitively oof calm acupuncture whereas equatorial gosh effectuate","isFavorite":true,"id":0},{"name":"Brycen","image":"/assets/chihuahua.avif","description":"bottleful after baste obliterate putrid","isFavorite":false,"id":1},{"name":"Thurman","image":"/assets/boxer.png","description":"subtle though jade indeed before island aha","isFavorite":true,"id":2},{"name":"Orrin","image":"/assets/chihuahua.avif","description":"provided after despite till watcher","isFavorite":true,"id":3},{"name":"Lucie","image":"/assets/dalmation.png","description":"psst justly browsing all solid","isFavorite":false,"id":4},{"name":"Luella","image":"/assets/blue-heeler.png","description":"smoothly idolized naturally yum that till phew","isFavorite":false,"id":5},{"name":"Shannon","image":"/assets/cowardly.png","description":"invite insistent brr truthfully athwart bah straddle assassination","isFavorite":true,"id":6},{"name":"Imani","image":"/assets/dalmation.png","description":"rattle excluding skean on recovery","isFavorite":true,"id":7},{"name":"Danyka","image":"/assets/chihuahua.avif","description":"chillax daily sally however lest","isFavorite":true,"id":8},{"name":"Toby","image":"/assets/blue-heeler.png","description":"wildly forenenst rightfully till how","isFavorite":false,"id":9},{"name":"Tyson","image":"/assets/blue-heeler.png","description":"inequality maroon however nimble segregate","isFavorite":false,"id":10},{"name":"Eulalia","image":"/assets/boxer.png","description":"foolish rarely despite fooey frantically definitive jubilant dislike","isFavorite":true,"id":11},{"name":"Lawson","image":"/assets/cowardly.png","description":"uniform but wet cruelly knowledgeable","isFavorite":true,"id":12},{"name":"Cooper","image":"/assets/dalmation.png","description":"furthermore when righteously when handlebar breathe considering so","isFavorite":false,"id":13},{"name":"Melody","image":"/assets/chihuahua.avif","description":"demotivate above hmph exploit hatbox quaver these","isFavorite":false,"id":14},{"name":"Linda","image":"/assets/blue-heeler.png","description":"instead angelic kissingly easily apropos tempting crease","isFavorite":true,"id":15},{"name":"Dakota","image":"/assets/chihuahua.avif","description":"salad hopelessly loyally gah whoever","isFavorite":true,"id":16},{"name":"Stewart","image":"/assets/blue-heeler.png","description":"bad whoever obedient modulo investigation daily yum","isFavorite":true,"id":17},{"name":"Melyssa","image":"/assets/cowardly.png","description":"drat considering youthfully unfortunately whereas aside underline jealously","isFavorite":false,"id":18},{"name":"Korey","image":"/assets/chihuahua.avif","description":"loosely at bossy surprisingly friendly for well-lit seldom","isFavorite":false,"id":19}]}
+{
+  "dogs": [
+    {
+      "name": "Jermain",
+      "image": "/assets/chihuahua.avif",
+      "description": "ha properly whether wait unsightly demand sentencing",
+      "isFavorite": true,
+      "id": 1
+    },
+    {
+      "name": "Ryan",
+      "image": "/assets/blue-heeler.png",
+      "description": "awkwardly overconfidently why where phew sedately miss worth",
+      "isFavorite": true,
+      "id": 2
+    },
+    {
+      "name": "Lamar",
+      "image": "/assets/blue-heeler.png",
+      "description": "that contrive via poorly oval ha derrick boohoo",
+      "isFavorite": true,
+      "id": 3
+    },
+    {
+      "name": "Shania",
+      "image": "/assets/boxer.png",
+      "description": "butter gosh overshadow beneath beneath",
+      "isFavorite": true,
+      "id": 4
+    },
+    {
+      "name": "Riley",
+      "image": "/assets/dalmation.png",
+      "description": "captor intern woot arch-rival variant via chunder",
+      "isFavorite": true,
+      "id": 5
+    },
+    {
+      "name": "Alycia",
+      "image": "/assets/corgi.png",
+      "description": "for versus yowza windy yippee cockroach shakily",
+      "isFavorite": true,
+      "id": 6
+    },
+    {
+      "name": "Wilton",
+      "image": "/assets/corgi.png",
+      "description": "front pro joyfully mmm with down quietly",
+      "isFavorite": true,
+      "id": 7
+    },
+    {
+      "name": "Enola",
+      "image": "/assets/boxer.png",
+      "description": "whoa hoarse politely indeed interface what youthfully",
+      "isFavorite": true,
+      "id": 8
+    },
+    {
+      "name": "Reed",
+      "image": "/assets/corgi.png",
+      "description": "suspiciously where for stall steep gee even",
+      "isFavorite": true,
+      "id": 9
+    },
+    {
+      "name": "Annalise",
+      "image": "/assets/dalmation.png",
+      "description": "sans mmm before dear buttonhole ick infer",
+      "isFavorite": true,
+      "id": 10
+    },
+    {
+      "name": "Bradley",
+      "image": "/assets/blue-heeler.png",
+      "description": "drat whereas meanwhile experienced incidentally easily mourn including",
+      "isFavorite": true,
+      "id": 11
+    },
+    {
+      "name": "Hector",
+      "image": "/assets/dalmation.png",
+      "description": "devoted cantaloupe thinking acidly urgently",
+      "isFavorite": true,
+      "id": 12
+    },
+    {
+      "name": "Lily",
+      "image": "/assets/corgi.png",
+      "description": "woot how noisy sans even",
+      "isFavorite": false,
+      "id": 13
+    },
+    {
+      "name": "Braden",
+      "image": "/assets/blue-heeler.png",
+      "description": "tummy by glistening verve squatter jagged an",
+      "isFavorite": true,
+      "id": 14
+    },
+    {
+      "name": "Leann",
+      "image": "/assets/dalmation.png",
+      "description": "concerning unnerve peak compensation view nasalize doubtfully yowza",
+      "isFavorite": false,
+      "id": 15
+    },
+    {
+      "name": "Hilbert",
+      "image": "/assets/blue-heeler.png",
+      "description": "silently onto unlike supposing showy cycle colorize absentmindedly",
+      "isFavorite": true,
+      "id": 16
+    },
+    {
+      "name": "Callie",
+      "image": "/assets/boxer.png",
+      "description": "octavo swiftly certificate cause gee boohoo whereas intercede",
+      "isFavorite": true,
+      "id": 17
+    },
+    {
+      "name": "Reece",
+      "image": "/assets/cowardly.png",
+      "description": "trouble locket trained concerning minus",
+      "isFavorite": false,
+      "id": 18
+    },
+    {
+      "name": "Kristy",
+      "image": "/assets/cowardly.png",
+      "description": "gouge via how smoggy neglected",
+      "isFavorite": true,
+      "id": 19
+    }
+  ]
+}
