@@ -97,10 +97,10 @@ export const FunctionalSection = () => {
                 alignItems: 'center',
                 zIndex: 1000,
               }}
-              onClick={() => setIsModalOpen(false)} // Close modal on background click
+              onClick={() => setIsModalOpen(false)}
             >
               <div
-                onClick={(e) => e.stopPropagation()} // Prevent click events from propagating to the background
+                onClick={(e) => e.stopPropagation()}
                 style={{
                   background: 'gray',
                   padding: '20px',
@@ -114,7 +114,7 @@ export const FunctionalSection = () => {
                 >
                   X
                 </button>
-                <FunctionalCreateDogForm />
+                <FunctionalCreateDogForm setIsModalOpen={setIsModalOpen} />
               </div>
             </div>
           )}
