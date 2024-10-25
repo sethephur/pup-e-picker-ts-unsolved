@@ -114,7 +114,10 @@ export const FunctionalSection = () => {
                 >
                   X
                 </button>
-                <FunctionalCreateDogForm setIsModalOpen={setIsModalOpen} />
+                <FunctionalCreateDogForm
+                  setIsModalOpen={setIsModalOpen}
+                  setDogs={setDogs}
+                />
               </div>
             </div>
           )}

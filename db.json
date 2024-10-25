@@ -1,165 +1,39 @@
 {
   "dogs": [
     {
-      "name": "Tavares",
-      "image": "/assets/corgi.png",
-      "description": "hmph defiantly absent curiously flog",
-      "isFavorite": false,
-      "id": 0
-    },
-    {
-      "name": "Crystel",
-      "image": "/assets/chihuahua.avif",
-      "description": "by knowledgeably than suite oh voluntarily once",
-      "isFavorite": false,
+      "name": "Freddy",
+      "image": "/assets/cowardly.png",
+      "description": "Really really dumb dog",
+      "isFavorite": true,
       "id": 1
     },
     {
-      "name": "Providenci",
-      "image": "/assets/corgi.png",
-      "description": "aha supposing gosh seemingly fatherly subsidise upward",
-      "isFavorite": true,
+      "name": "asdfg",
+      "image": "/assets/blue-heeler.png",
+      "description": "asdf",
+      "isFavorite": false,
       "id": 2
     },
     {
-      "name": "Marcia",
-      "image": "/assets/chihuahua.avif",
-      "description": "whose fooey above ah compliance unlawful questionably",
+      "name": "asfd",
+      "image": "/assets/blue-heeler.png",
+      "description": "asfd",
       "isFavorite": true,
       "id": 3
     },
     {
-      "name": "Bethel",
-      "image": "/assets/chihuahua.avif",
-      "description": "indeed medication yellowish contribute an active psst fervently",
+      "name": "Frankfurt",
+      "image": "/assets/dalmation.png",
+      "description": "bilbilbbil",
       "isFavorite": true,
       "id": 4
     },
     {
-      "name": "Jessika",
-      "image": "/assets/boxer.png",
-      "description": "worth presell expose ah whoa",
-      "isFavorite": false,
+      "name": "frankfurt",
+      "image": "/assets/blue-heeler.png",
+      "description": "adsfgasdg",
+      "isFavorite": true,
       "id": 5
-    },
-    {
-      "name": "Jake",
-      "image": "/assets/blue-heeler.png",
-      "description": "immaterial demo hurry what brr",
-      "isFavorite": true,
-      "id": 6
-    },
-    {
-      "name": "Alexandrine",
-      "image": "/assets/cowardly.png",
-      "description": "instead bleakly wisely serene redial violet where",
-      "isFavorite": true,
-      "id": 7
-    },
-    {
-      "name": "Efrain",
-      "image": "/assets/blue-heeler.png",
-      "description": "cheery if blossom via hence",
-      "isFavorite": false,
-      "id": 8
-    },
-    {
-      "name": "Dianna",
-      "image": "/assets/chihuahua.avif",
-      "description": "crossly unaware wealthy muffled above flawed ouch hospital",
-      "isFavorite": true,
-      "id": 9
-    },
-    {
-      "name": "Carolanne",
-      "image": "/assets/boxer.png",
-      "description": "honestly circa gosh till about modulo elegantly sister-in-law",
-      "isFavorite": false,
-      "id": 10
-    },
-    {
-      "name": "Keon",
-      "image": "/assets/corgi.png",
-      "description": "minute extremely regularly across surprised",
-      "isFavorite": false,
-      "id": 11
-    },
-    {
-      "name": "Cedrick",
-      "image": "/assets/boxer.png",
-      "description": "larder busy sheepishly pfft delay",
-      "isFavorite": false,
-      "id": 12
-    },
-    {
-      "name": "David",
-      "image": "/assets/dalmation.png",
-      "description": "anxiously ew yuck dilute crib versus advocacy via",
-      "isFavorite": false,
-      "id": 13
-    },
-    {
-      "name": "Devin",
-      "image": "/assets/cowardly.png",
-      "description": "lest boo sign fooey furthermore why bewitched",
-      "isFavorite": true,
-      "id": 14
-    },
-    {
-      "name": "Maximillian",
-      "image": "/assets/blue-heeler.png",
-      "description": "piddle allot hm belie untried dishonest yahoo",
-      "isFavorite": true,
-      "id": 15
-    },
-    {
-      "name": "Jena",
-      "image": "/assets/boxer.png",
-      "description": "bravely till astride very psst phooey athletic periodic",
-      "isFavorite": false,
-      "id": 16
-    },
-    {
-      "name": "Aliyah",
-      "image": "/assets/cowardly.png",
-      "description": "total ouch wherever huzzah mediocre banker cane homely",
-      "isFavorite": false,
-      "id": 17
-    },
-    {
-      "name": "Adella",
-      "image": "/assets/chihuahua.avif",
-      "description": "huzzah actually rich consequently swiftly than gray",
-      "isFavorite": false,
-      "id": 18
-    },
-    {
-      "name": "Liliane",
-      "image": "/assets/boxer.png",
-      "description": "yum glutamate huzzah itemise rent",
-      "isFavorite": true,
-      "id": 19
-    },
-    {
-      "name": "sdfgsdfg",
-      "image": "/assets/blue-heeler.png",
-      "description": "sdfgsdfgdsfg",
-      "isFavorite": false,
-      "id": 20
-    },
-    {
-      "name": "Freddy",
-      "image": "/assets/corgi.png",
-      "description": "Really dumb dog",
-      "isFavorite": false,
-      "id": 21
-    },
-    {
-      "name": "sad",
-      "image": "/assets/blue-heeler.png",
-      "description": "asdf",
-      "isFavorite": false,
-      "id": 22
     }
   ]
 }
